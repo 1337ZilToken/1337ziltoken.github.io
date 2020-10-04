@@ -4,3 +4,5 @@ This is a completely meaningless and worthless joke token. This token has no val
 # 1337 Coin
 
 Join the elite - swap $1337 on [ZilSwap](https://zilswap.io/). The max supply of this token is 1337 and it is indivisble, meaning you must buy full units of it.
+
+Contract address is: zil1jcefap5k2e90dagy37hzgjda38cr5kuf85hfpt
